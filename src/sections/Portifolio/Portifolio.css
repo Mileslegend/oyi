@@ -12,6 +12,12 @@
     gap: 1rem;
 }
 
+#portfolio .section__header .title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
 #portfolio .portifolio{
     -webkit-backdrop-filter: blur(70px);
     backdrop-filter: blur(70px);

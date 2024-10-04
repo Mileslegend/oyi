@@ -8,7 +8,7 @@ future through excellence in design and craftsmanship.
 ## About Section
 
 Title: Building Your Vision, Crafting Your Future
-Description: At Confix, we turn your ideas into reality with expert
+Description: At Oyirwoth, we turn your ideas into reality with expert
 craftsmanship and innovative solutions. From concept to
 completion, we’re dedicated to creating spaces that inspire and
 stand the test of time. Let’s build a future you can be proud of.

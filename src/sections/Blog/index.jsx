@@ -12,8 +12,7 @@ const Blog = () => {
           <h3 className="title">Our Blog</h3>
           <h3 className="sub__heading">Insights & Innovations</h3>
           <p className="description">
-            Stay informed with the latest trends, tips, and expert advice on all
-            things construction. Explore industry insights to help guide your
+            Stay informed with the latest trends, tips, and expert advice on sustainable energy and cooking. Explore data analytics insights to help guide your
             next project!
           </p>
         </div>

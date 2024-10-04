@@ -11,12 +11,10 @@ const Services = () => {
             <div className="container">
                 <div className="grid">
                     <div className="section__header">
-                        <h3 className="sub__heading">Plan Your Dream Project with Us</h3>
+                        <h3 className="title">Our Services</h3>
+                        <h3 className="sub__heading">Analyse Your Data With Us</h3>
                         <p className=" muted description">
-                        Ready to bring your vision to life? Our expert team offers
-personalized consultations to guide you through every step—from
-design to budget and beyond. Lets lay the groundwork for your
-next big project. Schedule your consultation today!
+                        Ready to unlock the power of data? Our expert team offers tailored analytics consultations to guide you from insights to action. Let’s build a data-driven strategy for your next project. Schedule your consultation today!
                         </p>
                         <Link to='contact' className='btn primary' >
                         Book Consultation

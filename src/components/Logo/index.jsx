@@ -8,7 +8,7 @@ const Logo = () => {
       <div className="logo">
         <img src={logo} alt="logo" />
     </div>
-    <h2>Con <span className="text__gradient">Fix</span></h2>  
+    <h2>Oyi<span className="text__gradient">Rwoth</span></h2>  
     </div>
     
   )

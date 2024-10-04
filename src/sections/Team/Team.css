@@ -6,6 +6,11 @@
     grid-template-columns: auto 500px;
 }
 
+#team .section__header .title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
 #team .members__container{
     padding: 20px 10px;
     height: 100%;

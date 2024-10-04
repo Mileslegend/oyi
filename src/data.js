@@ -107,72 +107,72 @@ export const whyChooseUs = [
 
 export const services = [
   {
-    title: "Residential Construction",
+    title: "Sustainable Cooking",
     icon: <FaHome />,
-    description: `Building modern, high-quality homes tailored to your vision.`,
+    description: `Building modern, high-quality solar cookers tailored to your vision through sustainable cooking with renewable energy.`,
   },
   {
-    title: "Commercial Projects",
+    title: "Community Trainings",
     icon: <FaBuilding />,
-    description: `Developing functional, innovative commercial spaces for businesses.`,
+    description: `Empowering communities through hands-on training in sustainable cooking using renewable energy.`,
   },
   {
-    title: "Renovation & Remodeling",
+    title: "Data Analytics",
     icon: <FaTools />,
-    description: `Transforming existing spaces with expert renovation and design.`,
+    description: `Transforming existing  data samples and sets into meaningful form.`,
   },
 ];
 
 export const portfolio = [
   {
-    title: "Luxury Residential Home",
+    title: "Earthen Solar Cooker",
     image: portfolio1,
     date: "May 15, 2023",
-    category: "Residential",
-    description: `A stunning 5-bedroom luxury home featuring contemporary architecture, floor-to-ceiling windows, and open-concept living spaces. Built with premium materials and high-end finishes to create a modern yet cozy atmosphere.`,
+    category: "Solar Cooker",
+    description: `A stunning earthen solar cooker featuring innovative design, ample cooking space, and an open-concept layout. Crafted with natural materials and sustainable finishes to create an efficient yet cozy cooking experience.`,
   },
   {
-    title: "Corporate Office Building",
+    title: "Solar dish Solar Cooker",
     image: portfolio2,
     date: "November 30, 2022",
-    category: "Commercial",
-    description: `A state-of-the-art office building designed to foster innovation and collaboration. This project includes eco-friendly materials, expansive workspaces, and cutting-edge conference rooms.`,
+    category: "Solar Cooker",
+    description: `The cooker features a large, reflective parabolic dish, typically made of polished metal or reflective aluminum, shaped like a shallow bowl. `,
   },
   {
-    title: "Retail Shopping Complex",
+    title: "Complex Data Analysis",
     image: portfolio3,
     date: "July 12, 2024",
-    category: "Retail",
-    description: `A bustling multi-level shopping complex offering retail spaces for international brands. The complex features stylish interiors, escalators, and vibrant common areas, perfect for customer engagement.`,
+    category: "Data Analysis",
+    description: ` It uses advanced techniques like statistical modeling, machine learning, and data mining to process structured and unstructured data.`,
   },
   {
-    title: "Luxury Resort & Spa",
+    title: "Data Visualisation",
     image: portfolio4,
     date: "February 1, 2023",
-    category: "Hospitality",
-    description: `A 5-star luxury resort and spa set in a tropical paradise. The project includes infinity pools, private villas, and a wellness center, designed with natural materials to blend seamlessly with the surrounding environment.`,
+    category: "Data Visualisation",
+    description: `The goal is to make informed decisions, predict outcomes, and solve intricate problems in various fields such as business, science, and technology.`,
   },
   {
-    title: "High-Rise Residential Complex",
+    title: "Project Management",
     image: portfolio5,
     date: "September 18, 2023",
-    category: "Residential",
-    description: `A contemporary high-rise residential building featuring 100+ modern apartments. This urban living space includes a rooftop terrace, fitness center, and private balconies with city views.`,
+    category: "Trainings",
+    description: `Programs are designed to empower individuals and groups by providing education, skills development, and resources that address specific needs.`,
   },
   {
-    title: "Industrial Warehouse Facility",
+    title: "Comunity Outreach",
     image: portfolio6,
     date: "March 5, 2022",
-    category: "Industrial",
-    description: `A large-scale industrial warehouse designed for efficient logistics and operations. Featuring high ceilings, wide loading docks, and ample storage space, this project was built to optimize business workflows.`,
+    category: "Outreach",
+    description: `Community outreach extends the impact by engaging with local populations directly, building relationships, and fostering collaboration.`,
   },
 ];
 
 export const teamMembers = [
   {
-    fullName: "Chinedu Okafor",
+    fullName: "Muhumuza Allan",
     image: member1,
-    title: "Lead Architect",
+    title: "Web Developer",
     socialMedias:[
       {name:"Facebook",icon:<FaFacebook/>,href:"http://facebook.com"},
       {name:"LinkedIn",icon:<FaLinkedin/>,href:"http://linkedin.com"},
@@ -181,7 +181,7 @@ export const teamMembers = [
     ]
   },
   {
-    fullName: "Aisha Ibrahim",
+    fullName: "Doctor Oyirwoth",
     image: member2,
     title: "Senior Project Manager",
     socialMedias:[
@@ -192,7 +192,7 @@ export const teamMembers = [
     ]
   },
   {
-    fullName: "Emmanuel Adeoye",
+    fullName: "Abedigamba Patrick",
     image: member3,
     title: "Chief Engineer",
     socialMedias:[
@@ -203,7 +203,7 @@ export const teamMembers = [
     ]
   },
   {
-    fullName: "Ngozi Eze",
+    fullName: "Mugisha Allen",
     image: member4,
     title: "Construction Planner",
     socialMedias:[
@@ -214,7 +214,7 @@ export const teamMembers = [
     ]
   },
   {
-    fullName: "Tunde Afolabi",
+    fullName: "Tunde Micheal",
     image: member5,
     title: "Site Supervisor",
     socialMedias:[
@@ -225,7 +225,7 @@ export const teamMembers = [
     ]
   },
   {
-    fullName: "Sonia Olufemi",
+    fullName: "Sonia Joan",
     image: member6,
     title: "Design Coordinator",
     socialMedias:[
@@ -241,34 +241,34 @@ export const testimonials = [
   {
     name: "Folake Adekunle",
     image: user1,
-    review: `The team at Confix exceeded our expectations. Their attention to detail and professionalism made our home renovation a smooth and enjoyable process.`,
+    review: `The team at Oyirwoth exceeded our expectations. Their attention to detail and professionalism made our home renovation a smooth and enjoyable process.`,
   },
   {
-    name: "Jide Akinwale",
+    name: "Jide Nakinwale",
     image: user2,
-    review: `From start to finish, the project was handled with incredible skill and efficiency. I highly recommend Confix for any construction needs.`,
+    review: `From start to finish, the project was handled with incredible skill and efficiency. I highly recommend Oyirwoth for any solar cooker construction needs.`,
   },
   {
-    name: "Chiamaka Nwachukwu",
+    name: "Chiama Nagayi",
     image: user3,
-    review: `Working with Confix was a fantastic experience. Their team was professional, creative, and committed to delivering exactly what we envisioned.`,
+    review: `Working with Oyirwoth was a fantastic experience. Their team was professional, creative, and committed to delivering exactly what we envisioned.`,
   },
   {
-    name: "Tunde Balogun",
+    name: "Micheal Balogun",
     image: user4,
-    review: `Exceptional service and quality workmanship! Confix transformed our industrial space efficiently and effectively. They are true professionals.`,
+    review: `Exceptional service and quality workmanship! Oyirwoth transformed our raw data samples efficiently and effectively. They are true professionals.`,
   },
 ];
 
 export const blogs = [
   {
     title: "Innovative Construction Trends for 2024",
-    content: `Discover the latest trends in construction for 2024, from sustainable building practices to cutting-edge technologies transforming the industry.`,
+    content: `Discover the latest trends in construction of solar cookers for 2024, from sustainable building practices to cutting-edge technologies transforming the industry.`,
     image: blog1,
   },
   {
-    title: "The Importance of Sustainable Building Materials",
-    content: `Learn why using sustainable building materials is crucial for environmental protection and how it benefits both the project and the community.`,
+    title: "The Importance of Renewable energy",
+    content: `Learn why using Renewable energy is crucial for environmental protection and how it benefits both the project and the community.`,
     image: blog2,
   },
   {
@@ -304,15 +304,15 @@ export const footer = [
     title: "Services",
     routes: [
       {
-        name: "Residential Construction",
+        name: "Sustainable Cooking",
         href: "#",
       },
       {
-        name: "Commercial Projects",
+        name: "Community Trainings",
         href: "#",
       },
       {
-        name: "Renovation & Remodeling",
+        name: "Data Analytics",
         href: "#",
       },
       {

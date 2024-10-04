@@ -11,8 +11,7 @@ const Footer = () => {
                 <div className="column">
                     <Logo />
                     <p>
-                    Our mission is to build lasting spaces that inspire and uplift, combining quality craftsmanship with innovative solutions to meet
-                    the evolving needs of our clients and communities.
+                    Our mission is to create a sustainable future that inspires and uplifts communities by harnessing the power of renewable energy, data analytics, and innovative training solutions. 
                     </p>
                 </div>
                 {

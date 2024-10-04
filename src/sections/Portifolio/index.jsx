@@ -7,9 +7,10 @@ const Portifolio = () => {
     <section id='portfolio'>
       <div className="container">
         <div className="section__header">
-          <h3 className="sub__heading">Crafting Spaces, Building Dreams</h3>
+        <h3 className="title">Our Portfolio</h3>
+          <h3 className="sub__heading">Innovative Solutions, Sustainable Cooking</h3>
           <p className="description">
-          Explore our portfolio to see how we turn visions into high-quality, inspiring spaces, from luxury homes to commercial buildings.
+          Explore our portfolio to see how we turn visions into high-quality, inspiring spaces, from raw data to meaningful information.
           </p>
         </div>
         <div className="portifolio__container">

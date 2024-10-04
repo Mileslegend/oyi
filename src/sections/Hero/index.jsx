@@ -13,16 +13,16 @@ const Hero = () => {
           <div className="container">
             <div className="column left">
                 <div className="hero__content">
-                    <h1 className="heading">Building Excellence, Creating Tomorrow</h1>
+                    <h1 className="heading">Building A Sustainable Future, With Renewable Energy</h1>
                     <p className="description">
-                    We are dedicated to delivering top-quality construction services with a focus on innovation, sustainability, and client satisfaction. With over 25 years of experience, we bring
+                    We are dedicated to delivering top-quality data analytics services with a focus on innovation, sustainability, and client satisfaction. With over 10 years of experience, we bring
 expertise and precision to every project, helping shape the
-future through excellence in design and craftsmanship.
+future through excellence in design and craftsmanship as well as harnessing renewable energy.
                     </p>
                 </div>
                 <Achievement />
                 <div className="flex__center buttons__wrapper">
-                  <Link to='portifolio' smooth={true} className='btn'> Projects <FaArrowTurnDown />  </Link>
+                  <Link to='portfolio' smooth={true} className='btn'> Projects <FaArrowTurnDown />  </Link>
                   <Link to='contact' smooth={true} className='flex__center  btn primary'> Get a Quote <FaArrowTurnDown />  </Link>
                 </div>
             </div>

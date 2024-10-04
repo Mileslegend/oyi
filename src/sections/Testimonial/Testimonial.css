@@ -3,6 +3,12 @@
     margin: auto;
 }
 
+#testimonials .container .title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
 #testimonials .testimonials__container{
     display: grid;
     grid-template-columns: repeat(2,1fr);

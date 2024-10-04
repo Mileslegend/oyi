@@ -12,6 +12,19 @@
     overflow: visible;
 }
 
+#about .section__header {
+    position: relative;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* Add transparency to the background color */
+    border-radius: 15px;
+    backdrop-filter: blur(10px); /* Apply a blur effect */
+}
+
+#about .section__header .title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
 #about .about__image{
     border-radius: var(--radius-3);
     overflow: hidden;

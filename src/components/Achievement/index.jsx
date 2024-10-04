@@ -11,9 +11,9 @@ const Achievement = () => {
 
   useEffect(() => {
     const timeout = setTimeout(() => {
-      setProjects(700);
+      setProjects(100);
       setSatisfaction(98);
-      setExperience(25)
+      setExperience(10)
     }, 2000)
     return () => {
       clearTimeout(timeout)

@@ -3,6 +3,11 @@
     background-size: cover;
 }
 
+#services .section__header .title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
 #services .grid{
     display: grid;
     gap: 1.5rem;

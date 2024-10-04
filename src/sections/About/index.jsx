@@ -17,10 +17,7 @@ const About = () => {
               Building Your Vision, Crafting Your Future
             </h1>
             <p className="description">
-              At Confix, we turn your ideas into reality with expert
-              craftsmanship and innovative solutions. From concept to
-              completion, we are dedicated to creating spaces that inspire and
-              stand the test of time. Lets build a future you can be proud of.
+              At Oyirwoth, we transform your vision for a sustainable future into reality with our expertise in Sustainable Energy, Clean Cooking, and Data Analytics. From innovative training programs to impactful community engagement, we are committed to creating solutions that inspire and endure. Together, let's build a future powered by clean energy and enriched by knowledge!
             </p>
             <div className="keypoints__container">
                 {keypoints.map((keypoint, index) => (
